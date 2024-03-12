@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.pdf
+
+env_jpegToPDF
